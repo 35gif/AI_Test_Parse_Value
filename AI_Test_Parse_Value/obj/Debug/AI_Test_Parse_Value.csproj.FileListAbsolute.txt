@@ -1,0 +1,10 @@
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\bin\Debug\AI_Test_Parse_Value.exe.config
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\bin\Debug\AI_Test_Parse_Value.exe
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\bin\Debug\AI_Test_Parse_Value.pdb
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\obj\Debug\AI_Test_Parse_Value.csproj.AssemblyReference.cache
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\obj\Debug\AI_Test_Parse_Value.csproj.CoreCompileInputs.cache
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\obj\Debug\AI_Test_Parse_Value.exe
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\obj\Debug\AI_Test_Parse_Value.pdb
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\obj\Debug\AI_Test_Parse_Value.csproj.CopyComplete
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Тесты\AI_Test_Parse_Value\AI_Test_Parse_Value\bin\Debug\Newtonsoft.Json.xml
